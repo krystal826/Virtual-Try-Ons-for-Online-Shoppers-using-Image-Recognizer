@@ -1,16 +1,17 @@
 import 'package:flutter/material.dart';
-import 'package:project/home_screen.dart';
 
+import 'select_glass.dart';
 
-void main()=>runApp(MyApp());
+void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget{
+  const MyApp({Key? key}) : super(key: key);
+
   @override
   Widget build(BuildContext context){
-    return const MaterialApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: HomeScreen(),
+      home: SelectGlass(),
     );
   }
-
 }

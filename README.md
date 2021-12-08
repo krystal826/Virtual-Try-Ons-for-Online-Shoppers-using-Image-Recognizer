@@ -1,2 +1,16 @@
-# Virtual-Try-Ons-for-Online-Shoppers-using-Image-Recognizer
-The overview of this project is about a personal shopping assistant where it can virtually try on outfit/accessories using 2D image based. The user needs to upload their image then the application will recommend the suitable outfit/accessories. By using face/body recognition, the system can detect the user’s body/face and match with the clothing dataset. Then the system will run and produce an image of the user with recommended outfit/accessories. Moreover, the system also can provide the details of which store that the user can buy the item. This project is supposed to solve the problem of users who do not have much time to go to the shopping mall and try on the outfit/accessories. While using the system, the user can save more time. It also can solve the problem during the pandemic where the shopper cannot try on the outfit due to standard operating procedures (SOP).The application used for this system is mobile based where the user can easily access the application. This project aims to help the user to buy suitable items that meet the user demand and assist them. It also can help the shoppers experience the shopping like in the real world without any worries during the pandemic.
+# flutter_workshop_selectglass
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

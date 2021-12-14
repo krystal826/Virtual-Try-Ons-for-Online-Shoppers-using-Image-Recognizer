@@ -1,4 +1,4 @@
-name: project
+name: vto_sunglasses
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -31,19 +31,17 @@ dependencies:
     sdk: flutter
 
 
-
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  flutter_dialogflow: ^0.1.3
-  bubble: ^1.1.9+1
-  intl:
+  splashscreen: ^1.3.5
+  camera_deep_ar: ^0.0.1
+  avatar_view: ^1.0.1
 
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -57,32 +55,24 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
+
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
 
   assets:
-    - assets/images/VTO.png
-    - assets/images/diamond.jpg
-    - assets/images/heart.jpg
-    - assets/images/oblog.jpg
-    - assets/images/round.jpg
-    - assets/images/square.jpg
-    - assets/images/triangle.jpg
-    - assets/images/oval.jpg
-    - assets/robot.jpg
-    - assets/default.jpg
-    - assets/credentials.json
+    - assets/android/
+    - assets/ios/
+    - images/
 
   fonts:
-   - family: Montserrat Regular
-     fonts:
-       - asset: assets/fonts/Calibri.ttf
-
-   - family: Montserrat Medium
-     fonts:
-       - asset: assets/fonts/calibril.ttf
+    - family: Signatra
+      fonts:
+        - asset: fonts/Signatra.ttf
+    - family: Brand Bold
+      fonts:
+        - asset: fonts/bolt-semibold.ttf
 
 
   # To add assets to your application, add an assets section, like this:
@@ -102,10 +92,10 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   # fonts:
-  #   - family: Schuyler
+  #   - family: Schyler
   #     fonts:
-  #       - asset: fonts/Schuyler-Regular.ttf
-  #       - asset: fonts/Schuyler-Italic.ttf
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
   #     fonts:

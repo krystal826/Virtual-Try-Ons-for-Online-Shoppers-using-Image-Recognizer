@@ -1,16 +1,23 @@
 import 'package:flutter/material.dart';
-import 'package:project/home_screen.dart';
+import 'package:vto_sunglasses/splash_screen.dart';
 
+void main() {
+  runApp(MyApp());
+}
 
-void main()=>runApp(MyApp());
+class MyApp extends StatefulWidget {
+  const MyApp({Key? key}) : super(key: key);
 
-class MyApp extends StatelessWidget{
   @override
-  Widget build(BuildContext context){
+  _MyAppState createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
+  @override
+  Widget build(BuildContext context) {
     return const MaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: HomeScreen(),
+      title:'Virtual Ty On App',
+      home: MySplashScreen(),
     );
   }
-
 }

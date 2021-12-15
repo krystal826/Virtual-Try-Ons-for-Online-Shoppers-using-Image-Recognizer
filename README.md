@@ -12,9 +12,9 @@ How to determine face shape
 <br /> 1. https://www.fashionbeans.com/2017/how-to-determine-your-face-shape/
 
 How to know suitable sunglaasses for skin tone
-2. https://www.allaboutvision.com/eyeglasses/eyeglasses_shape_color_analysis.htm
+<br /> 2. https://www.allaboutvision.com/eyeglasses/eyeglasses_shape_color_analysis.htm
 
 How to know suitable sunglaasses for face shape
-3.https://www.eyebuydirect.com/guides/frames-and-face-shapes
+<br />3.https://www.eyebuydirect.com/guides/frames-and-face-shapes
 
 

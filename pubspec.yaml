@@ -31,13 +31,10 @@ dependencies:
     sdk: flutter
 
 
-
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  flutter_dialogflow: ^0.1.3
-  bubble: ^1.1.9+1
-  intl:
+  radio_button_form_field: ^0.0.4
 
 
 dev_dependencies:
@@ -64,16 +61,19 @@ flutter:
 
   assets:
     - assets/images/VTO.png
-    - assets/images/diamond.jpg
-    - assets/images/heart.jpg
-    - assets/images/oblog.jpg
-    - assets/images/round.jpg
-    - assets/images/square.jpg
-    - assets/images/triangle.jpg
-    - assets/images/oval.jpg
-    - assets/robot.jpg
-    - assets/default.jpg
     - assets/credentials.json
+    - assets/images/Brow_bold.png
+    - assets/images/Brow_soft.png
+    - assets/images/Horn_bold.png
+    - assets/images/Horn_soft.png
+    - assets/images/Oval_bold.png
+    - assets/images/Oval_soft.png
+    - assets/images/Rect_bold.png
+    - assets/images/Rect_soft.png
+    - assets/images/Round_bold.png
+    - assets/images/Round_soft.png
+    - assets/images/Square_bold.png
+    - assets/images/Square_soft.png
 
   fonts:
    - family: Montserrat Regular

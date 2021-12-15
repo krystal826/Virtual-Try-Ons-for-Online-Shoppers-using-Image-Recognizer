@@ -4,12 +4,12 @@ The overview of this project is about a personal shopping assistant where it can
 # REFRENCES
 
 Dataset
-https://www.optical-center.co.uk/sun-glasses
+<br /> https://www.optical-center.co.uk/sun-glasses
 
 recommendation part
 
 How to determine face shape
-1. https://www.fashionbeans.com/2017/how-to-determine-your-face-shape/
+<br /> 1. https://www.fashionbeans.com/2017/how-to-determine-your-face-shape/
 
 How to know suitable sunglaasses for skin tone
 2. https://www.allaboutvision.com/eyeglasses/eyeglasses_shape_color_analysis.htm

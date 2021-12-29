@@ -6,7 +6,7 @@ The overview of this project is about a personal shopping assistant where it can
 Dataset
 <br /> https://www.optical-center.co.uk/sun-glasses
 
-recommendation part
+references for recommendation
 
 How to determine face shape
 <br /> 1. https://www.fashionbeans.com/2017/how-to-determine-your-face-shape/
